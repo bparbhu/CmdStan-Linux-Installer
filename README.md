@@ -19,6 +19,6 @@
 
 # Example usage
 
-`install.sh -d debian`
-`install.sh -p /home/user -d debian`
-`install.sh -p /home/user -d debian -v 2.24.1`
+`bash install.sh -d debian`
+`bash install.sh -p /home/user -d debian`
+`bash install.sh -p /home/user -d debian -v 2.24.1`
